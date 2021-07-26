@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">wordcollect3</string>
+    <string name="word_required">Word(Required)</string>
+    <string name="meaning_required">Meaning(Required)</string>
+    <string name="example_sentence">Example Sentence</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="meaning">Meaning</string>
+    <string name="_1">1</string>
+    <string name="word_title">Word Title</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="no_data">No Data</string>
+    <string name="todo">TODO</string>
+</resources>
